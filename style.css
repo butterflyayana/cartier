@@ -1,0 +1,331 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0 auto;
+    width: 1200px;
+}
+.header-wrapper{
+    display: flex;
+    margin-top: 1rem;
+}
+ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    height: 154px;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+.bag{
+    width: 35px;
+    height: 35px;
+}
+.geo{
+    width: 44px;
+    height: 44px;
+}
+.person{
+    width: 51px;
+    height: 51px;
+}
+.heart{
+    width: 51px;
+    height: 51px;
+    margin-left: 40rem;
+}
+.name{
+    width: 200px;
+    height: 180px;
+    margin-left: 33rem;
+    margin-top: -20rem;
+}
+.icon{
+    width: 71px;
+    height: 71px;
+    margin-top: -27px;
+}
+.watch{
+    width: 1200px;
+    margin-top: -5rem;
+}
+hr{
+    width: 120px;
+    height: 3px;
+    border: 0.5px black;
+    border-radius: 10px;   
+    background-color: black;
+    margin-left: 31rem;
+}
+.stay{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 30rem;
+    margin-top: 3rem;
+}
+.any{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 14rem;
+    margin-top: 2rem;
+}
+.cheese{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 31rem;
+    margin-top: 2rem;
+}
+.box1{
+    width: 260px;
+    height: 430px;
+    border: 2px solid #fff;  
+    margin-top: 3rem;
+    margin-left: -1rem;
+}
+.sclass{
+    width: 260px;
+    height: 260px;
+}
+.water{
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+.maniac{
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 1rem;
+    padding-top: 1rem;
+}
+.maddy{
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 5rem;
+    padding-top: 1rem;
+}
+.box2{
+    width: 260px;
+    height: 430px;
+    border: 2px solid #fff;  
+    margin-left: 19rem;
+    margin-top: -27rem;
+}
+.box3{
+    width: 260px;
+    height: 430px;
+    border: 2px solid #fff;  
+    margin-left: 39rem;
+    margin-top: -27rem;
+}
+.mania{
+    font-family: 'Montserrat', sans-serif; 
+    padding-top: 1rem;
+    padding-left: 1rem;
+}
+.box4{
+    width: 260px;
+    height: 430px;
+    border: 2px solid #fff;  
+    margin-left: 59rem;
+    margin-top: -27rem;
+}
+.kids{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 32px;
+    font-weight: 350;
+    line-height: 39px;
+    margin-top: 14rem;
+    margin-left: 3rem;
+}
+.blue{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 30px;
+    margin-left: 3rem;
+    margin-top: 1rem;
+}
+.red{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 30px;
+    margin-left: 3rem;
+    margin-top: 1rem;
+}
+.gold{
+    width: 600px;
+    height: 400px;
+    margin-left: 38rem;
+    margin-top: -18rem;
+}
+.lap{
+    width: 600px;
+    height: 500px;
+}
+.top{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 32px;
+    font-weight: 350;
+    line-height: 39px;
+    margin-left: 40rem;
+    margin-top: -20rem;
+}
+.pine{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 30px;
+    margin-left: 40rem;
+    margin-top: 1rem;
+}
+.apple{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 30px;
+    margin-left: 40rem;
+    margin-top: 1rem;
+}
+.lix{
+    width: 1200px;
+    margin-top: 15rem;
+}
+.hwan{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 39px;
+    margin-left: 23rem;
+    margin-top: 3rem;
+}
+.huyn{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 30px;
+    margin-left: 10rem;
+    margin-top: 1rem;
+}
+.lee{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 30px;
+    margin-left: 30rem;
+    margin-top: 1rem;
+}
+.box{
+    width: 1200px;
+    height: 550px;
+    border: 2px solid black;
+    margin-top: 2rem;
+}
+.bang{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 39px;
+    margin-left: 25rem;
+    margin-top: 2rem;
+}
+.chan{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 30px;
+    margin-left: 20rem;
+    margin-top: 1rem;
+}
+.bin{
+    width: 300px;
+    height: 300px;
+    margin-left: 6rem;
+    margin-top: 7rem;
+}
+.know{
+    width: 300px;
+    height: 300px;
+    margin-left: 3rem;
+}
+.so{
+    width: 300px;
+    height: 300px;
+    margin-left: 3rem;
+}
+button{
+    width: 140px;
+    height: 40px;
+    background-color: black;
+    color: #fff;
+    border: 2px solid black;
+    margin-top: 3rem;
+    margin-left: 33rem;
+    cursor: pointer;
+}
+.asu{
+    width: 1200px;
+    height: 3px;
+    border: 0.5px black;
+    border-radius: 10px;   
+    background-color: black;
+    margin-top: 2rem;
+    color: rgb(48, 44, 44);
+}
+.kim{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 26px;
+    font-weight: 100;
+    line-height: 29px;
+    margin-top: 2rem;
+}
+.jin{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 30px;
+    margin-top: 4px;
+}
+.drama{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 26px;
+    font-weight: 100;
+    line-height: 29px;
+    margin-top: -12.5rem;
+    margin-left: 18rem;
+}
+.seun{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 30px;
+    margin-top: 4px;
+    margin-left: 18rem;
+}
+.books{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 26px;
+    font-weight: 100;
+    line-height: 29px;
+    margin-left: 36rem;
+    margin-top: -10rem;
+}
+.book{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 30px;
+    margin-top: 4px;
+    margin-left: 36rem;
+}
+.stray{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 26px;
+    font-weight: 100;
+    line-height: 29px;
+    margin-left: 54rem;
+    margin-top: -18rem;
+}
+.kid{
+    width: 300px;
+    margin-left: 50rem;
+    border-radius: 50px;
+}
